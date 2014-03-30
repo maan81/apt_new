@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/apt.css" />
+<title>Amrit-prithivi Trust</title>
+</head>
+
+<body>
+  <div id="main_header">
+      <div id="header">
+      </div>
+  </div>
+
+</body>
+
+</html> 
